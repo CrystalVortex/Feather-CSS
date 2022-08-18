@@ -21,6 +21,7 @@ CSS File:
   position: absolute;
   top: 150px;
 }
+```
 
 Installation (Raw link):
 Add the following to your <head> tag
