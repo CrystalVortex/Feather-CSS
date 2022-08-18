@@ -22,3 +22,6 @@ CSS File:
   top: 150px;
 }
 
+Installation (Raw link):
+Add the following to your <head> tag
+<link rel="stylesheet" href="https://https://raw.githubusercontent.com/nobody1256/Feather-CSS/main/Feather1.css">
