@@ -5,9 +5,9 @@ Automated CSS classes
 + Create buttons, inputs and pictures without using css (more coming soon!)
 
 # Example:
-
+ Move components around by putting them in a div tag
 ```
-// Move components around by putting them in a div tag
+
 
 <div class="anything">
 <button class="button_default"> Some Text... </button>
