@@ -5,5 +5,5 @@ Automated CSS classes
 + Create buttons, inputs and pictures without using css
 
 # Examples:
-'''
+''
 test
