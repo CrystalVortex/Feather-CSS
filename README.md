@@ -23,11 +23,9 @@ CSS File:
 }
 ```
 
-# Installation (Raw link):
-Add the following to your <head> tag 
-```
-<link rel="stylesheet" href="https://https://raw.githubusercontent.com/nobody1256/Feather-CSS/main/Feather1.css">
-```
+# Installation :
+simply download the zip file in realeases and unzip it into your project, then link it to your html page (<href>)
+
 # Features:
 + Custom html elements (coming soon)
 + Easy to use and install
