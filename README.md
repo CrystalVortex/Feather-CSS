@@ -24,7 +24,7 @@ CSS File:
 ```
 
 # Installation :
-simply download the zip file in realeases and unzip it into your project, then link it to your html page (<href>)
+simply download the zip file in realeases and unzip it into your project, then link it to your html page "<href>"
 
 # Features:
 + Custom html elements (coming soon)
