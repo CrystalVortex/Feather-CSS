@@ -2,7 +2,7 @@
 Automated CSS classes
 
 # Uses:
-+ Create buttons, inputs and pictures without using css (more coming soon!)
++ Create buttons, inputs, drop downs and pictures without using css (more coming soon!)
 
 # Example:
  Move components around by putting them in a div tag
