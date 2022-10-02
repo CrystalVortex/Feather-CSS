@@ -1,0 +1,376 @@
+.font_arial_hel_sans {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dark_gray {
+    background-color: #1e1e1e;
+}
+
+.dark_black {
+    background-color: black;
+}
+
+
+
+.button_default {
+    transition: 0.2s;
+    width: 130px;
+    height: 35px;
+    background-color: #0099ff;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 5px;
+}
+
+
+
+.button_default:hover {
+    transition: 0.2s;
+    cursor: pointer;
+    background-color: #1379ec;
+}
+
+.button_default:active {
+    background-color: #005eca;
+}
+
+.button_default_round {
+    transition: 0.2s;
+    width: 130px;
+    height: 35px;
+    background-color: #0099ff;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 12px;
+}
+
+.button_default_round:hover {
+    transition: 0.2s;
+    cursor: pointer;
+    background-color: #1379ec;
+}
+
+.button_default_round:active {
+    background-color: #005eca;
+}
+
+.button_default_round_full {
+    transition: 0.2s;
+    width: 130px;
+    height: 35px;
+    background-color: #0099ff;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 50px;
+}
+
+.button_default_round_full:hover {
+    transition: 0.2s;
+    cursor: pointer;
+    background-color: #1379ec;
+}
+
+.button_default_round_full:active {
+    background-color: #005eca;
+}
+
+.button_default_blocked {
+    transition: 0.2s;
+    width: 130px;
+    height: 35px;
+    background-color: #0099ff;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 5px;
+}
+
+.button_default_blocked:hover {
+    transition: 0.2s;
+    cursor: not-allowed;
+    background-color: #003066;
+}
+
+.button_default_blocked_round {
+    transition: 0.2s;
+    width: 130px;
+    height: 35px;
+    background-color: #0099ff;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 12px;
+}
+
+.button_default_blocked_round:hover {
+    transition: 0.2s;
+    cursor: not-allowed;
+    background-color: #003066;
+}
+
+.button_default_blocked_round_full {
+    transition: 0.2s;
+    width: 130px;
+    height: 35px;
+    background-color: #0099ff;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 50px;
+}
+
+.button_default_blocked_round_full:hover {
+    transition: 0.2s;
+    cursor: not-allowed;
+    background-color: #003066;
+}
+
+.image250 {
+    width: 250spx;
+    height: 250px;
+    border-radius: 5px;
+}
+
+.image250_darken {
+    width: 250spx;
+    height: 250px;
+    transition: 0.2s;
+    border-radius: 5px;
+}
+
+.image250_darken:hover {
+    opacity: 70%;
+    transition: 0.2s;
+}
+
+
+.image300 {
+    width: 300spx;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.image300_darken {
+    width: 300spx;
+    height: 300px;
+    transition: 0.2s;
+    border-radius: 5px;
+}
+
+.image300_darken:hover {
+    opacity: 70%;
+    transition: 0.2s;
+}
+
+.image400 {
+    width: 400px;
+    height: 400px;
+    border-radius: 5px;
+}
+
+.image400_darken {
+    width: 400px;
+    height: 400px;
+    border-radius: 5px;
+    transition: 0.2s;
+}
+
+.image400_darken:hover {
+    transition: 0.2s;
+    opacity: 70%;
+}
+
+.image800 {
+    width: 800px;
+    height: 800px;
+    border-radius: 5px;
+}
+
+.input_default {
+    transition: 0.2s;
+    border: 0px;
+    border-radius: 30px;
+    width: 200px;
+    height: 30px;
+    background-color: #494949;
+}
+
+.input_default:hover {
+    transition: 0.2s;
+    background-color: #747474;
+    cursor: pointer;
+}
+
+.input_default:active {
+    transition: 0.2s;
+    background-color: #a5a5a5;
+}
+
+
+.youtube {
+    border-radius: 8px;
+}
+
+.link_default {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #005eca;
+    transition: 0.3s;
+}
+
+.link_default:hover {
+    transition: 0.3s;
+    color: #0777f8;
+}
+
+.link_default:active {
+    transition: 0.3s;
+    color: #00499c;
+}
+
+
+
+
+.red_button_default {
+    transition: 0.2s;
+    width: 130px;
+    height: 35px;
+    background-color: #ff0000;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 5px;
+}
+
+
+
+.red_button_default:hover {
+    transition: 0.2s;
+    cursor: pointer;
+    background-color: #ff0000cc;
+}
+
+.red_button_default:active {
+    background-color: #ca00009d;
+}
+
+.red_button_default_round {
+    transition: 0.2s;
+    width: 130px;
+    height: 35px;
+    background-color: #ff0000;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 12px;
+}
+
+.red_button_default_round:hover {
+    transition: 0.2s;
+    cursor: pointer;
+    background-color: #ff0000cc;
+}
+
+.red_button_default_round:active {
+    background-color: #ca00009d;
+}
+
+.red_button_default_round_full {
+    transition: 0.2s;
+    width: 130px;
+    height: 35px;
+    background-color: #ff1100;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 50px;
+}
+
+.red_button_default_round_full:hover {
+    transition: 0.2s;
+    cursor: pointer;
+    background-color: #ff0000cc;
+}
+
+.red_button_default_round_full:active {
+    background-color: #ca00009d;
+}
+
+.red_button_default_blocked {
+    transition: 0.2s;
+    width: 130px;
+    height: 35px;
+    background-color: #ca00009d;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 5px;
+}
+
+.red_button_default_blocked:hover {
+    transition: 0.2s;
+    cursor: not-allowed;
+    background-color: #ff0000cc;
+}
+
+.red_button_default_blocked_round {
+    transition: 0.2s;
+    width: 130px;
+    height: 35px;
+    background-color: #ca00009d;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 12px;
+}
+
+.red_button_default_blocked_round:hover {
+    transition: 0.2s;
+    cursor: not-allowed;
+    background-color: #ff0000cc;
+}
+
+.red_button_default_blocked_round_full {
+    transition: 0.2s;
+    width: 130px;
+    height: 35px;
+    background-color: #ca00009d;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    border-radius: 50px;
+}
+
+.red_button_default_blocked_round_full:hover {
+    transition: 0.2s;
+    cursor: not-allowed;
+    background-color: #ff0000cc;
+}
+
+.dropdown_default {
+    border-radius: 100px;
+    border: 0px;
+    background-color: #a1a1a1;
+    transition: 0.2s;
+}
+
+.dropdown_default:hover {
+    border-radius: 100px;
+    border: 0px;
+    background-color: #d3d3d3;
+    transition: 0.2s;
+}
