@@ -24,7 +24,7 @@ CSS File:
 ```
 
 # Installation :
-simply download the zip file in realeases (FeatherCSS.V1.4.zip) and unzip it into your project, then link it to your html page 
+simply download the zip file in realeases (FeatherCSS.V1.4.1.zip) and unzip it into your project, then link it to your html page 
 
 # Features:
 + Custom html elements (coming soon)
