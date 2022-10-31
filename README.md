@@ -10,7 +10,7 @@ Automated CSS classes
 
 
 <div class="anything">
-<button class="button_default"> Some Text... </button>
+<button class="btn_blue"> Some Text... </button>
 </div>
 
 
