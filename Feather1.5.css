@@ -1,0 +1,146 @@
+.btn_white {
+    border: 0px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #cfcfcf;
+    transition: 0.2s;
+    
+}
+
+.btn_white:hover {
+    cursor: pointer;
+    filter: brightness(50%);
+    transition: 0.2s;
+}
+
+.btn_white:active {
+    transition: 0.2s;
+    filter: brightness(30%);
+
+}
+
+
+/* Blue Buttons */
+
+.btn_blue {
+    border: 0px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #0084ff;
+    transition: 0.2s;
+    
+}
+
+.btn_blue:hover {
+    cursor: pointer;
+    filter: brightness(50%);
+    transition: 0.2s;
+}
+
+.btn_blue:active {
+    transition: 0.2s;
+    filter: brightness(30%);
+
+}
+/* Red Buttons */
+
+
+.btn_red {
+    border: 0px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #fd1919;
+    transition: 0.2s;
+    
+}
+
+.btn_red:hover {
+    cursor: pointer;
+    filter: brightness(50%);
+    transition: 0.2s;
+}
+
+.btn_red:active {
+    transition: 0.2s;
+    filter: brightness(30%);
+
+}
+
+/* Green Buttons */
+
+.btn_green {
+    border: 0px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #33ff00;
+    transition: 0.2s;
+    
+}
+
+.btn_green:hover {
+    cursor: pointer;
+    filter: brightness(50%);
+    transition: 0.2s;
+}
+
+.btn_green:active {
+    transition: 0.2s;
+    filter: brightness(30%);
+
+}
+
+/* Orange Buttons */
+
+.btn_orange {
+    border: 0px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #ff9900;
+    transition: 0.2s;
+    
+}
+
+.btn_orange:hover {
+    cursor: pointer;
+    filter: brightness(50%);
+    transition: 0.2s;
+}
+
+.btn_orange:active {
+    transition: 0.2s;
+    filter: brightness(30%);
+
+}
+
+/* Inputs */
+
+.inpt {
+    outline: 0px;
+    border: 0px;
+    background-color: #cfcfcf;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.inpt_dark {
+    outline: 0px;
+    border: 0px;
+    background-color: #252525;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+}
+
+.dropdown_default {
+    border-radius: 100px;
+    border: 0px;
+    background-color: #a1a1a1;
+    transition: 0.2s;
+}
+
+.dropdown_default:hover {
+    border-radius: 100px;
+    border: 0px;
+    background-color: #d3d3d3;
+    transition: 0.2s;
+}
