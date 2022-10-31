@@ -32,3 +32,7 @@ simply download the zip file in realeases (FeatherCSS.V1.4.1.zip) and unzip it i
 + Always new features and updates
 
 
+
+# Wiki
+
+Wiki has to be rewritten.
