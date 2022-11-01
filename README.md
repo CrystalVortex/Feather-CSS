@@ -31,6 +31,10 @@ simply download the zip file in realeases (FeatherCSS.V1.4.1.zip) and unzip it i
 + Easy to use and install
 + Always new features and updates
 
+# Test:
+
+To see a test version before using it go to https://nobody1256.github.io
+
 
 
 # Wiki
