@@ -1,3 +1,5 @@
+<strong>
+
 # Feather-CSS
 Automated CSS classes
 
@@ -51,3 +53,4 @@ To see a test version before using it go to https://nobody1256.github.io
 # Wiki
 
 You can find the wiki here https://github.com/nobody1256/Feather-CSS/wiki
+</strong
