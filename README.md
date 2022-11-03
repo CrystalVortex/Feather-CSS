@@ -26,7 +26,7 @@ CSS File:
 # Installation :
 # 1
 
-simply download the zip file in realeases (FeatherCSS.V1.4.1.zip) and unzip it into your project, then link it to your html page
+simply download the source code and link a version to your files
 
 # 2 
 
