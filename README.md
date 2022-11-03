@@ -54,3 +54,10 @@ To see a test version before using it go to https://nobody1256.github.io
 
 You can find the wiki here https://github.com/nobody1256/Feather-CSS/wiki
 </strong>
+
+
+<style> 
+@import url("https://rawcdn.githack.com/nobody1256/Feather-CSS/df43efcba9a52b03afb203e26fdd2810e710a40a/FeatherV1.5.1.css");
+</style>
+
+<button class="btn_blue"> test </button>
