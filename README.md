@@ -24,11 +24,11 @@ CSS File:
 ```
 
 # Installation :
-# 1
+# Option 1
 
 simply download the source code and link a version to your files
 
-# 2 
+# Option 2 
 
 add this to your <head> tag
 
