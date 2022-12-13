@@ -46,13 +46,13 @@ add this to your <head> tag
 
 # Test:
 
-To see a test version before using it go to https://nobody1256.github.io
+To see a test version before using it go to https://crystalvortex.github.io
 
 
 
 # Wiki
 
-You can find the wiki here https://github.com/nobody1256/Feather-CSS/wiki
+You can find the wiki here https://github.com/crystalvortex/Feather-CSS/wiki
 </strong>
 
 
