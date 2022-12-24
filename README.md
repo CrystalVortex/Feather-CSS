@@ -35,7 +35,7 @@ simply download the source code and link a version to your files
 add this to your <head> tag
 
 ```
-    <link rel="stylesheet" href="https://rawcdn.githack.com/CrystalVortex/Feather-CSS/1.6/FeatherV1.6.css">
+    <link rel="stylesheet" href="https://rawcdn.githack.com/CrystalVortex/Feather-CSS/9318334ceedfa61d6a64349a558ef1e48ef19cb2/Feather1.7.css">
 
 ```
 
